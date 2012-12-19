@@ -1,4 +1,8 @@
 <?php
+// Door Problem Solving Program
+// Author : Cahyo Herdian
+// Email : cahyoherdian@ymail.com
+
   $GLOBALS['employee'] = 1000;
 	$GLOBALS['door'] = 1000;
 		
